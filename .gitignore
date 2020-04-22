@@ -1,0 +1,7 @@
+project/scenes/debug/renders/
+builds/butler_creds
+builds/linux/
+builds/html5/
+builds/windows/
+builds/android/
+*.blend1
