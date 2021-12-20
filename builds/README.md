@@ -55,14 +55,14 @@ Once it's running you can visit [localhost:8000](http://localhost:8000) to run t
 
 > You can also execute the `html5.ps1` script on Windows
 
-# Andoird Builds
+# Android Builds
 ##### https://docs.godotengine.org/en/latest/getting_started/workflow/export/exporting_for_android.html
 
 Follow the instructions in the link above for getting android builds setup. However, I will list out my steps just in case there are any issues.
 
 ## Installing Required Software
 
-1. Install Andoid SDK
+1. Install Android SDK
     1. https://developer.android.com/studio/
     1. Standard Installation
 1. Install [OpenJDK](https://github.com/ojdkbuild/ojdkbuild)
